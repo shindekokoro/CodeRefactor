@@ -1,2 +1,1 @@
-# module01-CodeRefactor
-HTML CSS Git Challenge: Code Refactor
+# Code Refactor Starter Code
